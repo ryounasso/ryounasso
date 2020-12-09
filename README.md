@@ -1,5 +1,11 @@
 ### I'm Ryota Wabuchi
 
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ryounasso&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ryounasso/)
+
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryounasso&layout=compact&theme=tokyonight)](https://github.com/ryounasso/)
+
 <!--
 **ryounasso/ryounasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
