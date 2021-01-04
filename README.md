@@ -2,7 +2,6 @@
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ryounasso&hide=contribs&count_private=true&show_icons=true&theme=dracula)](https://github.com/ryounasso/)[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryounasso&layout=compact&theme=tokyonight)](https://github.com/ryounasso/)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- ソースコード統計 -->
 
 <!--
