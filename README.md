@@ -1,9 +1,9 @@
 ## Hi, I'm ryounasso
 
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ryounasso&hide=contribs&count_private=true&show_icons=true&theme=algolia)](https://github.com/ryounasso/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ryounasso&hide=contribs&count&private=true&show_icons=true&theme=algolia)](https://github.com/ryounasso/)
 
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryounasso&theme=tokyonight&hide=css,html&count_private=true)](https://github.com/ryounasso/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryounasso&theme=tokyonight&hide=css,html&count&private=true)](https://github.com/ryounasso/)
 <!-- ソースコード統計 -->
 
 <!--
