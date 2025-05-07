@@ -1,9 +1,15 @@
 ## Hi, I'm ryounasso
 
-<!-- リポジトリステータス -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryounasso&theme=tokyonight&hide=css,html&count&private=true)](https://github.com/ryounasso/) [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ryounasso&hide=contribs&count&private=true&show_icons=true&theme=algolia)](https://github.com/ryounasso/)
-<!-- ソースコード統計 -->
+https://ryounasso.com/
 
+My Blog  
+https://blog.ryounasso.com/
+
+<!-- リポジトリステータス -->
+<!-- [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryounasso&theme=tokyonight&hide=css,html&count&private=true)](https://github.com/ryounasso/) -->
+
+<!-- ソースコード統計 -->
+<!-- [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ryounasso&hide=contribs&count&private=true&show_icons=true&theme=algolia)](https://github.com/ryounasso/) -->
 <!--
 **ryounasso/ryounasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
